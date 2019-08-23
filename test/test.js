@@ -66,7 +66,6 @@ describe('regex', function () {
       `111.jpeeg`
     )
   })
-
   it('正确的 split 字符串', function () {
     const split = require('../lib/split')
 
